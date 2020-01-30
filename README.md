@@ -1,4 +1,3 @@
-# -
 2019年度の確率ロボティクスの課題アルゴリズム
 
 https://github.com/ryuichiueda/probrobo2017/blob/master/09.ipynb
